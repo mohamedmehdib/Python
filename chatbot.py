@@ -13,7 +13,7 @@ def chatBot():
     if not is_connected():
         print("No wifi availble !")
         return
-    KEY = "AIzaSyDIVqja2gpDHiQE63v7kziLgCqnZrpEV2g"
+    KEY = "YOUR_API_KEY"
 
     ai.configure(api_key=KEY)
     model  = ai.GenerativeModel("gemini-pro")
