@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Aymen",
+        "gender": "Male",
+        "city": "Jandouba",
+        "age": 19,
+        "degree": 19.5
+    },
+    {
+        "name": "Aymen",
+        "gender": "Male",
+        "city": "Jandouba",
+        "age": 19,
+        "degree": 9
+    },
+    {
+        "name": "Aymen",
+        "gender": "Male",
+        "city": "Jandouba",
+        "age": 18,
+        "degree": 19.5
+    },
+    {
+        "name": "Aymen",
+        "gender": "Male",
+        "city": "Sfax",
+        "age": 17,
+        "degree": 14
+    },
+    {
+        "name": "Ahmed",
+        "gender": "Male",
+        "city": "jandouba",
+        "age": 9,
+        "degree": 4.0
+    }
+]
